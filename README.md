@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @0ld0wl
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi, I'm Olga
 
-<!---
-0ld0wl/0ld0wl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data analyst. Master's in Computer Systems Networking and Telecommunications, 
+8 years in tech.
+
+**Stack**
+Python (pandas, numpy) · SQL · Tableau · statistics
+
+**Find me**
+- Portfolio: [olgapanina.com](https://olgapanina.com)
+- LinkedIn: [olga-panina](https://www.linkedin.com/in/olga-panina-84433a83/)
+- Email: hello@olgapanina.com
